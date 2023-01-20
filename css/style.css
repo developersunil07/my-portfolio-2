@@ -941,7 +941,7 @@ footer h6 {
     }
 
     .flex-box {
-        width: 50%;
+        width: 55%;
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
@@ -1136,8 +1136,6 @@ footer h6 {
     @media only screen and (max-width:765px) {
         .features-section .my-features {
             height: 220px;
-
-
         }
 
     }
